@@ -1,0 +1,9 @@
+.consoleButton {
+    margin: 20px;
+    padding: 10px;
+    background-color: yellow;
+    border: none;
+    box-shadow: 2px 2px 0px rgb(224, 224, 224);
+    cursor: pointer;
+    outline: none;
+}
